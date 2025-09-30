@@ -15,17 +15,23 @@ Python版 : `janken.py`
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 2. 以下を実行
 
-`python janken.py`
+```
+python janken.py
+```
 
 Java版 : `Janken.java`
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 2. コンパイル
 
-`javac janken.java`
+```
+javac janken.java
+```
 
 3. 実行
 
-`java Janken`
+```
+java Janken
+```
 
 ## 遊び方
 1. プログラムを実行すると、手の選択肢が表示されます。
